@@ -9,7 +9,7 @@ from aiogram.types import (
     LabeledPrice, PreCheckoutQuery,
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_ТОКЕН_СЮДА")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8992154556:AAGwXM5teGZN6YmPZMHRwqzX1AQ5YCahhbw")
 OWNER_ID = int(os.getenv("OWNER_ID", "0"))
 DATA_FILE = "data.json"
 
